@@ -1,8 +1,8 @@
 # E-commerce-Data-Analytics-Portfolio
 
 ## Project Overview
-This project simulates a *real-world E-commerce dataset* intentionally created in a *raw, dirty, and inconsistent state* in order to practice **data cleaning, transformation, and exploratory analysis using Microsoft Excel**.
-The primary goal of the project was to demonstrate how messy business data can be transformed into a **clean, structured dataset** suitable for analysis and decision-making.
+This project simulates a real-world E-commerce dataset intentionally created in a raw, dirty, and inconsistent state in order to practice data cleaning, transformation, and exploratory analysis using Microsoft Excel.
+The primary goal of the project was to demonstrate how messy business data can be transformed into a clean, structured dataset suitable for analysis and decision-making.
 
 ---
 
