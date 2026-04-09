@@ -90,12 +90,12 @@ These insights demonstrate how structured and well-cleaned data enables actionab
 
 ---
 
-## Purpose of This Portfolio
-After cleaning and analyzing the data, several business-relevant insights emerged:
-- real‑world data challenges
-- sound analytical judgment
-- clarity of insights
-- professional data handling standards
+## File Structure
+Ecommerce_Data_Analytics.xlsx
+├── Raw_ecommerce        # Original uncleaned data
+├── Mappings             # Cleaning & standardization rules
+├── Pivot                # Analytical pivot tables
+└── Dashboard            # KPI summary & visual insights
 
 ---
 
