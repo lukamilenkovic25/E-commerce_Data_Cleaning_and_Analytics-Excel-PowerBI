@@ -33,6 +33,7 @@ The raw data includes typical real-world data quality issues such as:
 
 ## Tools and Techniques Used
 **Microsoft Excel**
+
 Key skills demonstrated:
 - Data cleaning and normalization
 - Data standardization using mapping tables
@@ -56,7 +57,7 @@ Examples of data transformations:
 - `quantity` → text values (“two”, “five”) converted to numbers
 - `revenue` → numeric extraction from mixed currency strings
 - `order_status` → unified statuses (Delivered, Pending, Returned)
-- 'delivery_days → converted into consistent numeric values
+- `delivery_days` → converted into consistent numeric values
 A dedicated **Mappings sheet** was used to ensure scalable and maintainable transformations instead of hard-coded fixes.
 
 ---
