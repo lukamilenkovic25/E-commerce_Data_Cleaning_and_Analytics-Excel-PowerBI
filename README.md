@@ -92,10 +92,10 @@ These insights demonstrate how structured and well-cleaned data enables actionab
 
 ## File Structure
 Ecommerce_Data_Analytics.xlsx
-├── Raw_ecommerce        # Original uncleaned data
-├── Mappings             # Cleaning & standardization rules
-├── Pivot                # Analytical pivot tables
-└── Dashboard            # KPI summary & visual insights
+─ Raw_ecommerce        # Original uncleaned data
+─ Mappings             # Cleaning & standardization rules
+─ Pivot                # Analytical pivot tables
+─ Dashboard            # KPI summary & visual insights
 
 ---
 
