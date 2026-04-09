@@ -67,22 +67,31 @@ A dedicated **Mappings sheet** was used to ensure scalable and maintainable tran
 - Total Revenue
 - Total Orders
 - Return Rate %
+  
 The dashboard provides a quick overview for stakeholders and highlights potential operational issues.
 
 ---
 
-## Tools and Skills
-- Microsoft Excel
-- Data Cleaning & Transformation
-- Pivot Tables
-- GETPIVOTDATA
-- KPI Development
+## Business Insights
+
+- **High Return Rate**
+  The overall return rate is close to 47%, which is unusually high for E-commerce operations. This suggests potential issues such as product quality mismatches, unclear product descriptions, or logistics-related problems.
+
+- **Revenue Concentration by Region** 
+  The majority of revenue comes from USA and Europe, indicating these regions as the primary revenue drivers and key focus areas for business growth.
+
+- **Product Category Risk Differences**
+  Certain high-revenue product categories also exhibit elevated return frequency, suggesting customer expectation gaps or product-related issues.
+
+- **Delivery Performance Impact**
+  Orders with longer delivery times appear more frequently among returned or problematic orders, indicating a possible relationship between delivery delays and customer satisfaction.
+
+These insights demonstrate how structured and well-cleaned data enables actionable business conclusions, which would not be possible using the raw dataset.
 
 ---
 
 ## Purpose of This Portfolio
-The purpose of this portfolio is to demonstrate practical, job‑ready data analytics skills that can be directly applied in freelance projects or junior‑to‑mid level analyst roles.
-Rather than focusing on complex tools, the emphasis is placed on:
+After cleaning and analyzing the data, several business-relevant insights emerged:
 - real‑world data challenges
 - sound analytical judgment
 - clarity of insights
